@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly with defaults 1`] = `
+<View>
+  <Image
+    source={
+      Object {
+        "uri": "https://i.eurosport.com/_iss_/person/pp_clubteam/large/435121.jpg",
+      }
+    }
+    style={
+      Object {
+        "height": 200,
+        "width": 125,
+      }
+    }
+  />
+  <Text>
+    height: 
+    183
+     cm
+  </Text>
+  <Text>
+    age: 
+    33
+  </Text>
+  <Text>
+    weight: 
+    81
+     kg
+  </Text>
+  <Text>
+    total wins: 
+    4
+  </Text>
+  <Text>
+    total losses: 
+    1
+  </Text>
+</View>
+`;
